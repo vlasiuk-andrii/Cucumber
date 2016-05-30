@@ -1,0 +1,921 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 8261683079,
+              "status": "passed"
+            },
+            "match": {
+              "location": "GoogleCalcStepDefinition.setup()"
+            }
+          }
+        ],
+        "line": 6,
+        "name": "Devide_1",
+        "description": "",
+        "id": "check-division-in-google-calculatorcontent;devide-1",
+        "after": [
+          {
+            "result": {
+              "duration": 240142551,
+              "status": "passed"
+            },
+            "match": {
+              "location": "GoogleCalcStepDefinition.closeBrowser()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 1840213025,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I open google",
+            "match": {
+              "location": "GoogleCalcStepDefinition.I_open_google()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 370649559,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I enter \"2/3\u003d\" in search textbox",
+            "match": {
+              "arguments": [
+                {
+                  "val": "2/3\u003d",
+                  "offset": 9
+                }
+              ],
+              "location": "GoogleCalcStepDefinition.I_enter_in_search_textbox(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1183593717,
+              "error_message": "org.junit.ComparisonFailure: expected:\u003c0.6666[6666666]\u003e but was:\u003c0.6666[]\u003e\r\n\tat org.junit.Assert.assertEquals(Assert.java:115)\r\n\tat org.junit.Assert.assertEquals(Assert.java:144)\r\n\tat GoogleCalcStepDefinition.I_should_get_correct_result(GoogleCalcStepDefinition.java:47)\r\n\tat ✽.Then I should get result as \"0.6666\"(GoogleCalcDevide.feature:9)\r\n",
+              "status": "failed"
+            },
+            "line": 9,
+            "name": "I should get result as \"0.6666\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "0.6666",
+                  "offset": 24
+                }
+              ],
+              "location": "GoogleCalcStepDefinition.I_should_get_correct_result(String)"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 6154250216,
+              "status": "passed"
+            },
+            "match": {
+              "location": "GoogleCalcStepDefinition.setup()"
+            }
+          }
+        ],
+        "line": 11,
+        "name": "Devide_2",
+        "description": "",
+        "id": "check-division-in-google-calculatorcontent;devide-2",
+        "after": [
+          {
+            "result": {
+              "duration": 278518657,
+              "status": "passed"
+            },
+            "match": {
+              "location": "GoogleCalcStepDefinition.closeBrowser()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 1489467745,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "I open google",
+            "match": {
+              "location": "GoogleCalcStepDefinition.I_open_google()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 337799948,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "I enter \"3/3\u003d\" in search textbox",
+            "match": {
+              "arguments": [
+                {
+                  "val": "3/3\u003d",
+                  "offset": 9
+                }
+              ],
+              "location": "GoogleCalcStepDefinition.I_enter_in_search_textbox(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1380981681,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "I should get result as \"1\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "1",
+                  "offset": 24
+                }
+              ],
+              "location": "GoogleCalcStepDefinition.I_should_get_correct_result(String)"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 5637626500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "GoogleCalcStepDefinition.setup()"
+            }
+          }
+        ],
+        "line": 16,
+        "name": "Devide_3",
+        "description": "",
+        "id": "check-division-in-google-calculatorcontent;devide-3",
+        "after": [
+          {
+            "result": {
+              "duration": 224953485,
+              "status": "passed"
+            },
+            "match": {
+              "location": "GoogleCalcStepDefinition.closeBrowser()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 1676774302,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "I open google",
+            "match": {
+              "location": "GoogleCalcStepDefinition.I_open_google()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 340475226,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "I enter \"3/1\u003d\" in search textbox",
+            "match": {
+              "arguments": [
+                {
+                  "val": "3/1\u003d",
+                  "offset": 9
+                }
+              ],
+              "location": "GoogleCalcStepDefinition.I_enter_in_search_textbox(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1181849949,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "I should get result as \"3\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "3",
+                  "offset": 24
+                }
+              ],
+              "location": "GoogleCalcStepDefinition.I_should_get_correct_result(String)"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 5346367776,
+              "status": "passed"
+            },
+            "match": {
+              "location": "GoogleCalcStepDefinition.setup()"
+            }
+          }
+        ],
+        "line": 21,
+        "name": "Devide_4",
+        "description": "",
+        "id": "check-division-in-google-calculatorcontent;devide-4",
+        "after": [
+          {
+            "result": {
+              "duration": 239741308,
+              "status": "passed"
+            },
+            "match": {
+              "location": "GoogleCalcStepDefinition.closeBrowser()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 1571310510,
+              "status": "passed"
+            },
+            "line": 22,
+            "name": "I open google",
+            "match": {
+              "location": "GoogleCalcStepDefinition.I_open_google()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 352148896,
+              "status": "passed"
+            },
+            "line": 23,
+            "name": "I enter \"3/1\u003d\" in search textbox",
+            "match": {
+              "arguments": [
+                {
+                  "val": "3/1\u003d",
+                  "offset": 9
+                }
+              ],
+              "location": "GoogleCalcStepDefinition.I_enter_in_search_textbox(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 103121,
+              "status": "passed"
+            },
+            "line": 24,
+            "name": "I smile",
+            "match": {
+              "location": "GoogleCalcStepDefinition.I_smile()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1114420644,
+              "status": "passed"
+            },
+            "line": 25,
+            "name": "I should get result as \"3\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "3",
+                  "offset": 24
+                }
+              ],
+              "location": "GoogleCalcStepDefinition.I_should_get_correct_result(String)"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Check division in Google calculatorcontent",
+    "description": "In order to verify that google calculator work correctly\r\nAs a user of google\r\nI should be able to get correct addition result",
+    "id": "check-division-in-google-calculatorcontent",
+    "keyword": "Feature",
+    "uri": "GoogleCalcDevide.feature"
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 5350310804,
+              "status": "passed"
+            },
+            "match": {
+              "location": "GoogleCalcStepDefinition.setup()"
+            }
+          }
+        ],
+        "line": 6,
+        "name": "Minus_1",
+        "description": "",
+        "id": "check-substration-in-google-calculatorcontent;minus-1",
+        "after": [
+          {
+            "result": {
+              "duration": 235496248,
+              "status": "passed"
+            },
+            "match": {
+              "location": "GoogleCalcStepDefinition.closeBrowser()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 1421763288,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I open google",
+            "match": {
+              "location": "GoogleCalcStepDefinition.I_open_google()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 311520260,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I enter \"2-2\u003d\" in search textbox",
+            "match": {
+              "arguments": [
+                {
+                  "val": "2-2\u003d",
+                  "offset": 9
+                }
+              ],
+              "location": "GoogleCalcStepDefinition.I_enter_in_search_textbox(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1208227870,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I should get result as \"0\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "0",
+                  "offset": 24
+                }
+              ],
+              "location": "GoogleCalcStepDefinition.I_should_get_correct_result(String)"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 5329496032,
+              "status": "passed"
+            },
+            "match": {
+              "location": "GoogleCalcStepDefinition.setup()"
+            }
+          }
+        ],
+        "line": 11,
+        "name": "Minus_2",
+        "description": "",
+        "id": "check-substration-in-google-calculatorcontent;minus-2",
+        "after": [
+          {
+            "result": {
+              "duration": 281266754,
+              "status": "passed"
+            },
+            "match": {
+              "location": "GoogleCalcStepDefinition.closeBrowser()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 1306122299,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "I open google",
+            "match": {
+              "location": "GoogleCalcStepDefinition.I_open_google()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 316883033,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "I enter \"1-2\u003d\" in search textbox",
+            "match": {
+              "arguments": [
+                {
+                  "val": "1-2\u003d",
+                  "offset": 9
+                }
+              ],
+              "location": "GoogleCalcStepDefinition.I_enter_in_search_textbox(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1406660239,
+              "error_message": "org.junit.ComparisonFailure: expected:\u003c-1[]\u003e but was:\u003c-1[1]\u003e\r\n\tat org.junit.Assert.assertEquals(Assert.java:115)\r\n\tat org.junit.Assert.assertEquals(Assert.java:144)\r\n\tat GoogleCalcStepDefinition.I_should_get_correct_result(GoogleCalcStepDefinition.java:47)\r\n\tat ✽.Then I should get result as \"-11\"(GoogleCalcMinus.feature:14)\r\n",
+              "status": "failed"
+            },
+            "line": 14,
+            "name": "I should get result as \"-11\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "-11",
+                  "offset": 24
+                }
+              ],
+              "location": "GoogleCalcStepDefinition.I_should_get_correct_result(String)"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Check substration in Google calculatorcontent",
+    "description": "In order to verify that google calculator work correctly\r\nAs a user of google\r\nI should be able to get correct addition result",
+    "id": "check-substration-in-google-calculatorcontent",
+    "keyword": "Feature",
+    "uri": "GoogleCalcMinus.feature"
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 8768236140,
+              "status": "passed"
+            },
+            "match": {
+              "location": "GoogleCalcStepDefinition.setup()"
+            }
+          }
+        ],
+        "line": 6,
+        "name": "Addition_1",
+        "description": "",
+        "id": "check-addition-in-google-calculatorcontent;addition-1",
+        "after": [
+          {
+            "result": {
+              "duration": 225233525,
+              "status": "passed"
+            },
+            "match": {
+              "location": "GoogleCalcStepDefinition.closeBrowser()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 2070805902,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I open google",
+            "match": {
+              "location": "GoogleCalcStepDefinition.I_open_google()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 306722452,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I enter \"2+2\u003d\" in search textbox",
+            "match": {
+              "arguments": [
+                {
+                  "val": "2+2\u003d",
+                  "offset": 9
+                }
+              ],
+              "location": "GoogleCalcStepDefinition.I_enter_in_search_textbox(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1223590433,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I should get result as \"4\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "4",
+                  "offset": 24
+                }
+              ],
+              "location": "GoogleCalcStepDefinition.I_should_get_correct_result(String)"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 6039157576,
+              "status": "passed"
+            },
+            "match": {
+              "location": "GoogleCalcStepDefinition.setup()"
+            }
+          }
+        ],
+        "line": 11,
+        "name": "Addition_2",
+        "description": "",
+        "id": "check-addition-in-google-calculatorcontent;addition-2",
+        "after": [
+          {
+            "result": {
+              "duration": 279582121,
+              "status": "passed"
+            },
+            "match": {
+              "location": "GoogleCalcStepDefinition.closeBrowser()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 1610643537,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "I open google",
+            "match": {
+              "location": "GoogleCalcStepDefinition.I_open_google()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 314582118,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "I enter \"2+0\u003d\" in search textbox",
+            "match": {
+              "arguments": [
+                {
+                  "val": "2+0\u003d",
+                  "offset": 9
+                }
+              ],
+              "location": "GoogleCalcStepDefinition.I_enter_in_search_textbox(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1135510567,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "I should get result as \"2\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "2",
+                  "offset": 24
+                }
+              ],
+              "location": "GoogleCalcStepDefinition.I_should_get_correct_result(String)"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 5471402048,
+              "status": "passed"
+            },
+            "match": {
+              "location": "GoogleCalcStepDefinition.setup()"
+            }
+          }
+        ],
+        "line": 16,
+        "name": "Addition_3",
+        "description": "",
+        "id": "check-addition-in-google-calculatorcontent;addition-3",
+        "after": [
+          {
+            "result": {
+              "duration": 276771956,
+              "status": "passed"
+            },
+            "match": {
+              "location": "GoogleCalcStepDefinition.closeBrowser()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 1496619737,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "I open google",
+            "match": {
+              "location": "GoogleCalcStepDefinition.I_open_google()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 346014917,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "I enter \"0+0\u003d\" in search textbox",
+            "match": {
+              "arguments": [
+                {
+                  "val": "0+0\u003d",
+                  "offset": 9
+                }
+              ],
+              "location": "GoogleCalcStepDefinition.I_enter_in_search_textbox(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1139285476,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "I should get result as \"0\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "0",
+                  "offset": 24
+                }
+              ],
+              "location": "GoogleCalcStepDefinition.I_should_get_correct_result(String)"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 5956012849,
+              "status": "passed"
+            },
+            "match": {
+              "location": "GoogleCalcStepDefinition.setup()"
+            }
+          }
+        ],
+        "line": 21,
+        "name": "Addition_4",
+        "description": "",
+        "id": "check-addition-in-google-calculatorcontent;addition-4",
+        "after": [
+          {
+            "result": {
+              "duration": 274180739,
+              "status": "passed"
+            },
+            "match": {
+              "location": "GoogleCalcStepDefinition.closeBrowser()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 1400033624,
+              "status": "passed"
+            },
+            "line": 22,
+            "name": "I open google",
+            "match": {
+              "location": "GoogleCalcStepDefinition.I_open_google()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 326742070,
+              "status": "passed"
+            },
+            "line": 23,
+            "name": "I enter \"-1+7\u003d\" in search textbox",
+            "match": {
+              "arguments": [
+                {
+                  "val": "-1+7\u003d",
+                  "offset": 9
+                }
+              ],
+              "location": "GoogleCalcStepDefinition.I_enter_in_search_textbox(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1136221173,
+              "status": "passed"
+            },
+            "line": 24,
+            "name": "I should get result as \"6\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "6",
+                  "offset": 24
+                }
+              ],
+              "location": "GoogleCalcStepDefinition.I_should_get_correct_result(String)"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 5166335393,
+              "status": "passed"
+            },
+            "match": {
+              "location": "GoogleCalcStepDefinition.setup()"
+            }
+          }
+        ],
+        "line": 26,
+        "name": "Addition_5",
+        "description": "",
+        "id": "check-addition-in-google-calculatorcontent;addition-5",
+        "after": [
+          {
+            "result": {
+              "duration": 192813992,
+              "status": "passed"
+            },
+            "match": {
+              "location": "GoogleCalcStepDefinition.closeBrowser()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 27,
+            "name": "PENDING: I open google",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 28,
+            "name": "I enter \"-1+7\u003d\" in search textbox",
+            "match": {
+              "arguments": [
+                {
+                  "val": "-1+7\u003d",
+                  "offset": 9
+                }
+              ],
+              "location": "GoogleCalcStepDefinition.I_enter_in_search_textbox(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 29,
+            "name": "I should get result as \"6\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "6",
+                  "offset": 24
+                }
+              ],
+              "location": "GoogleCalcStepDefinition.I_should_get_correct_result(String)"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Check addition in Google calculatorcontent",
+    "description": "In order to verify that google calculator work correctly\r\nAs a user of google\r\nI should be able to get correct addition result",
+    "id": "check-addition-in-google-calculatorcontent",
+    "keyword": "Feature",
+    "uri": "GoogleCalcPlus.feature"
+  }
+]
