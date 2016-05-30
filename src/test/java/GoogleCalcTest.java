@@ -6,6 +6,12 @@ import org.junit.runner.RunWith;
 @CucumberOptions(
         format = { "pretty", "html:target/", "json:target/cucumber.json"}
     )
+//@CucumberOptions(strict = true,
+//        //features = {"classpath:com/automationrhapsody/cucumber/parallel/tests/wikipedia/ignored.feature"},
+//        format = {"json:target/cucumber.json", "html:target/", "pretty"},
+//        monochrome = false,
+//        tags = {"~@ignored"},
+//        glue = { "com.automationrhapsody.cucumber.parallel.tests" })
 public class GoogleCalcTest {
 }
 

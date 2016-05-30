@@ -2,9 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b91fcfa-e260-4345-abe1-ca6728002e2e" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/cucumber-html-reports/GoogleCalcDevide.feature.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/cucumber-html-reports/GoogleCalcMinus.feature.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/cucumber-html-reports/GoogleCalcPlus.feature.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/cucumber-html-reports/feature-overview.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/cucumber-html-reports/tag-overview.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/GoogleCalcTest.class" afterPath="$PROJECT_DIR$/target/test-classes/GoogleCalcTest.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/GoogleCalcTest.java" afterPath="$PROJECT_DIR$/src/test/java/GoogleCalcTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/cucumber.json" afterPath="$PROJECT_DIR$/target/cucumber.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/report.js" afterPath="$PROJECT_DIR$/target/report.js" />
     </list>
     <ignored path="Cucumber.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,11 +35,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="138" column="21" selection-start-line="138" selection-start-column="21" selection-end-line="138" selection-end-column="21" />
+            <state relative-caret-position="1210">
+              <caret line="117" column="0" selection-start-line="117" selection-start-column="0" selection-end-line="117" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -40,18 +48,20 @@
       <file leaf-file-name="GoogleCalcStepDefinition.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/GoogleCalcStepDefinition.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="29">
+            <state relative-caret-position="612">
               <caret line="38" column="24" selection-start-line="38" selection-start-column="24" selection-end-line="38" selection-end-column="24" />
-              <folding />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GoogleCalcTest.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="GoogleCalcTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/GoogleCalcTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+            <state relative-caret-position="51">
+              <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -84,8 +94,8 @@
         <option value="$PROJECT_DIR$/src/test/java/GoogleCalcStepDefinition.java" />
         <option value="$PROJECT_DIR$/src/test/resources/GoogleCalcMinus.feature" />
         <option value="$PROJECT_DIR$/src/test/resources/GoogleCalcPlus.feature" />
-        <option value="$PROJECT_DIR$/src/test/java/GoogleCalcTest.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/GoogleCalcTest.java" />
       </list>
     </option>
   </component>
@@ -567,40 +577,40 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="GoogleCalcTest - 2016.05.26 at 14h 27m 54s.xml">
-      <configuration name="GoogleCalcTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="GoogleCalcTest - 2016.05.26 at 14h 30m 30s.xml">
-      <configuration name="GoogleCalcTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="GoogleCalcTest - 2016.05.26 at 14h 39m 57s.xml">
-      <configuration name="GoogleCalcTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="GoogleCalcTest - 2016.05.26 at 14h 45m 44s.xml">
-      <configuration name="GoogleCalcTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="GoogleCalcTest - 2016.05.26 at 14h 45m 58s.xml">
-      <configuration name="GoogleCalcTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="GoogleCalcTest - 2016.05.26 at 14h 47m 40s.xml">
-      <configuration name="GoogleCalcTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="GoogleCalcTest - 2016.05.26 at 14h 54m 55s.xml">
-      <configuration name="GoogleCalcTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="GoogleCalcTest - 2016.05.26 at 15h 17m 45s.xml">
-      <configuration name="GoogleCalcTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="GoogleCalcTest - 2016.05.30 at 14h 16m 22s.xml">
-      <configuration name="GoogleCalcTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="GoogleCalcTest - 2016.05.30 at 16h 19m 04s.xml">
+      <configuration name="GoogleCalcTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GoogleCalcTest - 2016.05.30 at 16h 26m 11s.xml">
+      <configuration name="GoogleCalcTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GoogleCalcTest - 2016.05.30 at 16h 28m 07s.xml">
+      <configuration name="GoogleCalcTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GoogleCalcTest - 2016.05.30 at 16h 28m 45s.xml">
+      <configuration name="GoogleCalcTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GoogleCalcTest - 2016.05.30 at 16h 30m 59s.xml">
+      <configuration name="GoogleCalcTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GoogleCalcTest - 2016.05.30 at 16h 33m 41s.xml">
+      <configuration name="GoogleCalcTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GoogleCalcTest - 2016.05.30 at 16h 33m 52s.xml">
+      <configuration name="GoogleCalcTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GoogleCalcTest - 2016.05.30 at 16h 38m 10s.xml">
+      <configuration name="GoogleCalcTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GoogleCalcTest - 2016.05.30 at 16h 38m 24s.xml">
+      <configuration name="GoogleCalcTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GoogleCalcTest - 2016.05.30 at 16h 40m 36s.xml">
       <configuration name="GoogleCalcTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1370" height="754" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -614,7 +624,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963072" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963072" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -664,7 +674,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="38" column="24" selection-start-line="38" selection-start-column="24" selection-end-line="38" selection-end-column="24" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -688,7 +700,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="38" column="24" selection-start-line="38" selection-start-column="24" selection-end-line="38" selection-end-column="24" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -712,7 +726,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="38" column="24" selection-start-line="38" selection-start-column="24" selection-end-line="38" selection-end-column="24" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -736,7 +752,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="38" column="24" selection-start-line="38" selection-start-column="24" selection-end-line="38" selection-end-column="24" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -781,7 +799,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="38" column="24" selection-start-line="38" selection-start-column="24" selection-end-line="38" selection-end-column="24" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -826,7 +846,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -880,6 +902,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/target/cucumber-parallel/1.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1210">
+          <caret line="117" column="0" selection-start-line="117" selection-start-column="0" selection-end-line="117" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/resources/GoogleCalcMinus.feature">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -890,24 +928,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/GoogleCalcStepDefinition.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="29">
+        <state relative-caret-position="612">
           <caret line="38" column="24" selection-start-line="38" selection-start-column="24" selection-end-line="38" selection-end-column="24" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/GoogleCalcTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="138" column="21" selection-start-line="138" selection-start-column="21" selection-end-line="138" selection-end-column="21" />
+        <state relative-caret-position="51">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
           <folding />
         </state>
       </provider>
