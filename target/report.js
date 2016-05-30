@@ -7,7 +7,7 @@ formatter.feature({
   "keyword": "Feature"
 });
 formatter.before({
-  "duration": 8261683079,
+  "duration": 7072738807,
   "status": "passed"
 });
 formatter.scenario({
@@ -37,7 +37,7 @@ formatter.match({
   "location": "GoogleCalcStepDefinition.I_open_google()"
 });
 formatter.result({
-  "duration": 1840213025,
+  "duration": 1641853966,
   "status": "passed"
 });
 formatter.match({
@@ -50,7 +50,7 @@ formatter.match({
   "location": "GoogleCalcStepDefinition.I_enter_in_search_textbox(String)"
 });
 formatter.result({
-  "duration": 370649559,
+  "duration": 358393328,
   "status": "passed"
 });
 formatter.match({
@@ -63,16 +63,16 @@ formatter.match({
   "location": "GoogleCalcStepDefinition.I_should_get_correct_result(String)"
 });
 formatter.result({
-  "duration": 1183593717,
+  "duration": 1337313668,
   "error_message": "org.junit.ComparisonFailure: expected:\u003c0.6666[6666666]\u003e but was:\u003c0.6666[]\u003e\r\n\tat org.junit.Assert.assertEquals(Assert.java:115)\r\n\tat org.junit.Assert.assertEquals(Assert.java:144)\r\n\tat GoogleCalcStepDefinition.I_should_get_correct_result(GoogleCalcStepDefinition.java:47)\r\n\tat ✽.Then I should get result as \"0.6666\"(GoogleCalcDevide.feature:9)\r\n",
   "status": "failed"
 });
 formatter.after({
-  "duration": 240142551,
+  "duration": 248996282,
   "status": "passed"
 });
 formatter.before({
-  "duration": 6154250216,
+  "duration": 5672332774,
   "status": "passed"
 });
 formatter.scenario({
@@ -102,7 +102,7 @@ formatter.match({
   "location": "GoogleCalcStepDefinition.I_open_google()"
 });
 formatter.result({
-  "duration": 1489467745,
+  "duration": 1480236718,
   "status": "passed"
 });
 formatter.match({
@@ -115,7 +115,7 @@ formatter.match({
   "location": "GoogleCalcStepDefinition.I_enter_in_search_textbox(String)"
 });
 formatter.result({
-  "duration": 337799948,
+  "duration": 351093741,
   "status": "passed"
 });
 formatter.match({
@@ -128,15 +128,15 @@ formatter.match({
   "location": "GoogleCalcStepDefinition.I_should_get_correct_result(String)"
 });
 formatter.result({
-  "duration": 1380981681,
+  "duration": 1229424825,
   "status": "passed"
 });
 formatter.after({
-  "duration": 278518657,
+  "duration": 290301802,
   "status": "passed"
 });
 formatter.before({
-  "duration": 5637626500,
+  "duration": 5547683129,
   "status": "passed"
 });
 formatter.scenario({
@@ -166,7 +166,7 @@ formatter.match({
   "location": "GoogleCalcStepDefinition.I_open_google()"
 });
 formatter.result({
-  "duration": 1676774302,
+  "duration": 1694628870,
   "status": "passed"
 });
 formatter.match({
@@ -179,7 +179,7 @@ formatter.match({
   "location": "GoogleCalcStepDefinition.I_enter_in_search_textbox(String)"
 });
 formatter.result({
-  "duration": 340475226,
+  "duration": 341653051,
   "status": "passed"
 });
 formatter.match({
@@ -192,15 +192,15 @@ formatter.match({
   "location": "GoogleCalcStepDefinition.I_should_get_correct_result(String)"
 });
 formatter.result({
-  "duration": 1181849949,
+  "duration": 1202469720,
   "status": "passed"
 });
 formatter.after({
-  "duration": 224953485,
+  "duration": 241658086,
   "status": "passed"
 });
 formatter.before({
-  "duration": 5346367776,
+  "duration": 5584630204,
   "status": "passed"
 });
 formatter.scenario({
@@ -235,7 +235,7 @@ formatter.match({
   "location": "GoogleCalcStepDefinition.I_open_google()"
 });
 formatter.result({
-  "duration": 1571310510,
+  "duration": 1350926597,
   "status": "passed"
 });
 formatter.match({
@@ -248,14 +248,14 @@ formatter.match({
   "location": "GoogleCalcStepDefinition.I_enter_in_search_textbox(String)"
 });
 formatter.result({
-  "duration": 352148896,
+  "duration": 359187506,
   "status": "passed"
 });
 formatter.match({
   "location": "GoogleCalcStepDefinition.I_smile()"
 });
 formatter.result({
-  "duration": 103121,
+  "duration": 86504,
   "status": "passed"
 });
 formatter.match({
@@ -268,11 +268,11 @@ formatter.match({
   "location": "GoogleCalcStepDefinition.I_should_get_correct_result(String)"
 });
 formatter.result({
-  "duration": 1114420644,
+  "duration": 1344253066,
   "status": "passed"
 });
 formatter.after({
-  "duration": 239741308,
+  "duration": 277822224,
   "status": "passed"
 });
 formatter.uri("GoogleCalcMinus.feature");
@@ -284,7 +284,7 @@ formatter.feature({
   "keyword": "Feature"
 });
 formatter.before({
-  "duration": 5350310804,
+  "duration": 5620042196,
   "status": "passed"
 });
 formatter.scenario({
@@ -314,7 +314,7 @@ formatter.match({
   "location": "GoogleCalcStepDefinition.I_open_google()"
 });
 formatter.result({
-  "duration": 1421763288,
+  "duration": 1525294664,
   "status": "passed"
 });
 formatter.match({
@@ -327,7 +327,7 @@ formatter.match({
   "location": "GoogleCalcStepDefinition.I_enter_in_search_textbox(String)"
 });
 formatter.result({
-  "duration": 311520260,
+  "duration": 334531849,
   "status": "passed"
 });
 formatter.match({
@@ -340,15 +340,15 @@ formatter.match({
   "location": "GoogleCalcStepDefinition.I_should_get_correct_result(String)"
 });
 formatter.result({
-  "duration": 1208227870,
+  "duration": 1261933795,
   "status": "passed"
 });
 formatter.after({
-  "duration": 235496248,
+  "duration": 300326028,
   "status": "passed"
 });
 formatter.before({
-  "duration": 5329496032,
+  "duration": 6094933247,
   "status": "passed"
 });
 formatter.scenario({
@@ -378,7 +378,7 @@ formatter.match({
   "location": "GoogleCalcStepDefinition.I_open_google()"
 });
 formatter.result({
-  "duration": 1306122299,
+  "duration": 1412556210,
   "status": "passed"
 });
 formatter.match({
@@ -391,7 +391,7 @@ formatter.match({
   "location": "GoogleCalcStepDefinition.I_enter_in_search_textbox(String)"
 });
 formatter.result({
-  "duration": 316883033,
+  "duration": 321609486,
   "status": "passed"
 });
 formatter.match({
@@ -404,12 +404,12 @@ formatter.match({
   "location": "GoogleCalcStepDefinition.I_should_get_correct_result(String)"
 });
 formatter.result({
-  "duration": 1406660239,
+  "duration": 984196608,
   "error_message": "org.junit.ComparisonFailure: expected:\u003c-1[]\u003e but was:\u003c-1[1]\u003e\r\n\tat org.junit.Assert.assertEquals(Assert.java:115)\r\n\tat org.junit.Assert.assertEquals(Assert.java:144)\r\n\tat GoogleCalcStepDefinition.I_should_get_correct_result(GoogleCalcStepDefinition.java:47)\r\n\tat ✽.Then I should get result as \"-11\"(GoogleCalcMinus.feature:14)\r\n",
   "status": "failed"
 });
 formatter.after({
-  "duration": 281266754,
+  "duration": 295388445,
   "status": "passed"
 });
 formatter.uri("GoogleCalcPlus.feature");
@@ -421,7 +421,7 @@ formatter.feature({
   "keyword": "Feature"
 });
 formatter.before({
-  "duration": 8768236140,
+  "duration": 5585919460,
   "status": "passed"
 });
 formatter.scenario({
@@ -451,7 +451,7 @@ formatter.match({
   "location": "GoogleCalcStepDefinition.I_open_google()"
 });
 formatter.result({
-  "duration": 2070805902,
+  "duration": 1654627267,
   "status": "passed"
 });
 formatter.match({
@@ -464,7 +464,7 @@ formatter.match({
   "location": "GoogleCalcStepDefinition.I_enter_in_search_textbox(String)"
 });
 formatter.result({
-  "duration": 306722452,
+  "duration": 327191208,
   "status": "passed"
 });
 formatter.match({
@@ -477,15 +477,15 @@ formatter.match({
   "location": "GoogleCalcStepDefinition.I_should_get_correct_result(String)"
 });
 formatter.result({
-  "duration": 1223590433,
+  "duration": 1098259995,
   "status": "passed"
 });
 formatter.after({
-  "duration": 225233525,
+  "duration": 277781171,
   "status": "passed"
 });
 formatter.before({
-  "duration": 6039157576,
+  "duration": 5642311901,
   "status": "passed"
 });
 formatter.scenario({
@@ -515,7 +515,7 @@ formatter.match({
   "location": "GoogleCalcStepDefinition.I_open_google()"
 });
 formatter.result({
-  "duration": 1610643537,
+  "duration": 1424455182,
   "status": "passed"
 });
 formatter.match({
@@ -528,7 +528,7 @@ formatter.match({
   "location": "GoogleCalcStepDefinition.I_enter_in_search_textbox(String)"
 });
 formatter.result({
-  "duration": 314582118,
+  "duration": 313560196,
   "status": "passed"
 });
 formatter.match({
@@ -541,15 +541,15 @@ formatter.match({
   "location": "GoogleCalcStepDefinition.I_should_get_correct_result(String)"
 });
 formatter.result({
-  "duration": 1135510567,
+  "duration": 1156155752,
   "status": "passed"
 });
 formatter.after({
-  "duration": 279582121,
+  "duration": 314486329,
   "status": "passed"
 });
 formatter.before({
-  "duration": 5471402048,
+  "duration": 5565413561,
   "status": "passed"
 });
 formatter.scenario({
@@ -579,7 +579,7 @@ formatter.match({
   "location": "GoogleCalcStepDefinition.I_open_google()"
 });
 formatter.result({
-  "duration": 1496619737,
+  "duration": 1653357561,
   "status": "passed"
 });
 formatter.match({
@@ -592,7 +592,7 @@ formatter.match({
   "location": "GoogleCalcStepDefinition.I_enter_in_search_textbox(String)"
 });
 formatter.result({
-  "duration": 346014917,
+  "duration": 310362472,
   "status": "passed"
 });
 formatter.match({
@@ -605,15 +605,15 @@ formatter.match({
   "location": "GoogleCalcStepDefinition.I_should_get_correct_result(String)"
 });
 formatter.result({
-  "duration": 1139285476,
+  "duration": 1109206932,
   "status": "passed"
 });
 formatter.after({
-  "duration": 276771956,
+  "duration": 284756735,
   "status": "passed"
 });
 formatter.before({
-  "duration": 5956012849,
+  "duration": 5262095562,
   "status": "passed"
 });
 formatter.scenario({
@@ -643,7 +643,7 @@ formatter.match({
   "location": "GoogleCalcStepDefinition.I_open_google()"
 });
 formatter.result({
-  "duration": 1400033624,
+  "duration": 1422097087,
   "status": "passed"
 });
 formatter.match({
@@ -656,7 +656,7 @@ formatter.match({
   "location": "GoogleCalcStepDefinition.I_enter_in_search_textbox(String)"
 });
 formatter.result({
-  "duration": 326742070,
+  "duration": 327425307,
   "status": "passed"
 });
 formatter.match({
@@ -669,15 +669,15 @@ formatter.match({
   "location": "GoogleCalcStepDefinition.I_should_get_correct_result(String)"
 });
 formatter.result({
-  "duration": 1136221173,
+  "duration": 1181204833,
   "status": "passed"
 });
 formatter.after({
-  "duration": 274180739,
+  "duration": 279997048,
   "status": "passed"
 });
 formatter.before({
-  "duration": 5166335393,
+  "duration": 5445249427,
   "status": "passed"
 });
 formatter.scenario({
@@ -732,7 +732,7 @@ formatter.result({
   "status": "skipped"
 });
 formatter.after({
-  "duration": 192813992,
+  "duration": 207400949,
   "status": "passed"
 });
 });
